@@ -30,7 +30,8 @@ wants to minimize her time on the road. A short route would help a lot...
 
 A living organism consists of cells.
 In each cell lies the same set of chromosomes.
-Chromosomes are strings of DNA. ![](http://www.ams.org/featurecolumn/images/chromosome.gif)
+Chromosomes are strings of DNA.
+![](http://www.ams.org/featurecolumn/images/chromosome.gif)
 A chromosome consists of genes (i.e. blocks of DNA).
 Each gene encodes a particular protein.
 Each gene encodes a trait (e.g. colour of hair).
